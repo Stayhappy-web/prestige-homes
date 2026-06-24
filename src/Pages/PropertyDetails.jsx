@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from "react-router-dom";
-import properties from "../data/properties";
+import properties from "../Data/Properties";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Pagination, Autoplay } from "swiper/modules";

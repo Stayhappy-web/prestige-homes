@@ -9,7 +9,7 @@ function Footer() {
 </p>
 
       <p>
-        Built by Stay Happy Tech. &copy; 2026. All rights reserved.
+        Stay Happy Tech. &copy; 2026. All rights reserved.
       </p>
 
     </footer>
